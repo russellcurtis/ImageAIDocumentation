@@ -75,7 +75,7 @@ Once you have created an instance above, you can use the functions below to set 
 
 * **.setModelTypeAsResNet50()** , This function sets the model type of the training instance you created to the **ResNet50** model, which means the **ResNet50** algorithm will be trained on your dataset.  Find example code below :: 
 
-    model_trainer.setModelTypeAsResNet()
+    model_trainer.setModelTypeAsResNet50()
 
 
 * **.setModelTypeAsInceptionV3()** , This function sets the model type of the training instance you created to the **InceptionV3** model, which means the **InceptionV3** algorithm will be trained on your dataset.  Find example code below :: 
